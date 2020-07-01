@@ -12,7 +12,7 @@
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
-          <td>이름</td>
+          <td>김도환</td>
         </tr>
       </tbody>
 </table>
