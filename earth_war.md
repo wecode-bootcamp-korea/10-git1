@@ -12,7 +12,7 @@
           <td>이병훈</td>
           <td>이병훈</td>
           <td>이병훈</td>
-          <td>이름</td>
+          <td>byunghoon lee</td>
         </tr>
       </tbody>
 </table>
